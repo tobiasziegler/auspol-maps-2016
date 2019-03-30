@@ -5,5 +5,6 @@
     "zip": "national-midmif-09052016.zip",
     "mapinfoFile": "COM_ELB.TAB"
   },
-  "baseFileName": "auspol-maps-2016"
+  "baseFileName": "auspol-maps-2016",
+  "simplifyPercentages": [20, 10, 5, 1]
 }
