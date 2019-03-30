@@ -39,6 +39,9 @@
     "eslint-plugin-prettier": "^3.0.1",
     "husky": "^1.3.1",
     "lint-staged": "^8.1.5",
-    "prettier": "1.16.4"
+    "mapshaper": "^0.4.110",
+    "node-fetch": "^2.3.0",
+    "prettier": "1.16.4",
+    "yauzl": "^2.10.0"
   }
 }
