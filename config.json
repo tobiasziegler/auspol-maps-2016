@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.aec.gov.au/Electorates/gis/files/",
+  "downloadDir": "./download",
+  "download": {
+    "zip": "national-midmif-09052016.zip"
+  }
+}
