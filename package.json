@@ -43,6 +43,7 @@
     "mapshaper": "^0.4.110",
     "node-fetch": "^2.3.0",
     "prettier": "1.16.4",
+    "shelljs": "^0.8.3",
     "yauzl": "^2.10.0"
   }
 }
