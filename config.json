@@ -2,6 +2,8 @@
   "baseUrl": "https://www.aec.gov.au/Electorates/gis/files/",
   "downloadDir": "./download",
   "download": {
-    "zip": "national-midmif-09052016.zip"
-  }
+    "zip": "national-midmif-09052016.zip",
+    "mapinfoFile": "COM_ELB.TAB"
+  },
+  "baseFileName": "auspol-maps-2016"
 }
